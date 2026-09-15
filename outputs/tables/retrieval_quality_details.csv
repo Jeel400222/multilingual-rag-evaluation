@@ -1,0 +1,46 @@
+﻿question_id,category,language,question,expected_fact_id,retrieved_document_id,retrieved_fact_id,similarity_score,top1_correct
+GEO01_en,Geography,English,What is the capital of India?,GEO01,KB001,GEO01,0.8826563954353333,True
+GEO01_hi,Geography,Hindi,भारत की राजधानी क्या है?,GEO01,KB002,GEO01,0.880401074886322,True
+GEO01_gu,Geography,Gujarati,ભારતની રાજધાની શું છે?,GEO01,KB003,GEO01,0.8484048843383789,True
+GEO02_en,Geography,English,Which river is generally considered the longest in the world?,GEO02,KB004,GEO02,0.8868415355682373,True
+GEO02_hi,Geography,Hindi,विश्व की सबसे लंबी नदी कौन सी मानी जाती है?,GEO02,KB005,GEO02,0.888892412185669,True
+GEO02_gu,Geography,Gujarati,વિશ્વની સૌથી લાંબી નદી કઈ ગણાય છે?,GEO02,KB006,GEO02,0.8799982070922852,True
+GEO03_en,Geography,English,Which mountain is the tallest above sea level?,GEO03,KB007,GEO03,0.8768165111541748,True
+GEO03_hi,Geography,Hindi,समुद्र तल से सबसे ऊँचा पर्वत कौन सा है?,GEO03,KB008,GEO03,0.8562353849411011,True
+GEO03_gu,Geography,Gujarati,સમુદ્ર સપાટીથી સૌથી ઊંચો પર્વત કયો છે?,GEO03,KB009,GEO03,0.8541325926780701,True
+GEO04_en,Geography,English,Which is the largest ocean on Earth?,GEO04,KB010,GEO04,0.8736459016799927,True
+GEO04_hi,Geography,Hindi,पृथ्वी का सबसे बड़ा महासागर कौन सा है?,GEO04,KB011,GEO04,0.8683381080627441,True
+GEO04_gu,Geography,Gujarati,પૃથ્વીનો સૌથી મોટો મહાસાગર કયો છે?,GEO04,KB012,GEO04,0.8550918102264404,True
+GEO05_en,Geography,English,Which continent is the second largest by both area and population?,GEO05,KB013,GEO05,0.8910411596298218,True
+GEO05_hi,Geography,Hindi,क्षेत्रफल और जनसंख्या दोनों के हिसाब से दूसरा सबसे बड़ा महाद्वीप कौन सा है?,GEO05,KB014,GEO05,0.8782676458358765,True
+GEO05_gu,Geography,Gujarati,ક્ષેત્રફળ અને વસ્તી બંનેની દ્રષ્ટિએ બીજો સૌથી મોટો ખંડ કયો છે?,GEO05,KB015,GEO05,0.8776945471763611,True
+HIS01_en,History,English,On what date did India gain independence from British rule?,HIS01,KB016,HIS01,0.9130895137786865,True
+HIS01_hi,History,Hindi,भारत को ब्रिटिश शासन से किस तारीख को स्वतंत्रता मिली?,HIS01,KB017,HIS01,0.9025530815124512,True
+HIS01_gu,History,Gujarati,ભારતને બ્રિટિશ શાસનથી કઈ તારીખે આઝાદી મળી?,HIS01,KB018,HIS01,0.8829335570335388,True
+HIS02_en,History,English,Who built the Taj Mahal?,HIS02,KB019,HIS02,0.8842558264732361,True
+HIS02_hi,History,Hindi,ताजमहल किसने बनवाया था?,HIS02,KB020,HIS02,0.8842889070510864,True
+HIS02_gu,History,Gujarati,તાજમહલ કોણે બંધાવ્યો હતો?,HIS02,KB021,HIS02,0.8404788970947266,True
+HIS03_en,History,English,In what year did World War II end?,HIS03,KB022,HIS03,0.8666911125183105,True
+HIS03_hi,History,Hindi,द्वितीय विश्व युद्ध किस वर्ष समाप्त हुआ?,HIS03,KB023,HIS03,0.8841278553009033,True
+HIS03_gu,History,Gujarati,બીજું વિશ્વ યુદ્ધ કયા વર્ષે સમાપ્ત થયું?,HIS03,KB024,HIS03,0.8574243783950806,True
+HIS04_en,History,English,Who led India's non-violent independence movement?,HIS04,KB025,HIS04,0.8848968744277954,True
+HIS04_hi,History,Hindi,भारत के अहिंसक स्वतंत्रता आंदोलन का नेतृत्व किसने किया?,HIS04,KB026,HIS04,0.8647385835647583,True
+HIS04_gu,History,Gujarati,ભારતના અહિંસક સ્વતંત્રતા આંદોલનનું નેતૃત્વ કોણે કર્યું?,HIS04,KB027,HIS04,0.8471395969390869,True
+HIS05_en,History,English,Which is one of the world's oldest urban civilizations?,HIS05,KB028,HIS05,0.8706408739089966,True
+HIS05_hi,History,Hindi,विश्व की सबसे पुरानी शहरी सभ्यताओं में से एक कौन सी है?,HIS05,KB029,HIS05,0.8692930936813354,True
+HIS05_gu,History,Gujarati,વિશ્વની સૌથી જૂની શહેરી સંસ્કૃતિઓમાંની એક કઈ છે?,HIS05,KB030,HIS05,0.8534358739852905,True
+SCI01_en,Science,English,What are the two elements that make up water?,SCI01,KB031,SCI01,0.8722071051597595,True
+SCI01_hi,Science,Hindi,पानी किन दो तत्वों से मिलकर बना है?,SCI01,KB032,SCI01,0.8810743093490601,True
+SCI01_gu,Science,Gujarati,પાણી કયા બે તત્વોથી બનેલું છે?,SCI01,KB033,SCI01,0.8548092842102051,True
+SCI02_en,Science,English,How many chambers does the human heart have?,SCI02,KB034,SCI02,0.9027232527732849,True
+SCI02_hi,Science,Hindi,मानव हृदय में कितने कक्ष होते हैं?,SCI02,KB035,SCI02,0.8818544149398804,True
+SCI02_gu,Science,Gujarati,માનવ હૃદયમાં કેટલા ખંડ (ચેમ્બર) હોય છે?,SCI02,KB036,SCI02,0.8815114498138428,True
+SCI03_en,Science,English,Which planet is third from the Sun?,SCI03,KB037,SCI03,0.8840605616569519,True
+SCI03_hi,Science,Hindi,सूर्य से तीसरा ग्रह कौन सा है?,SCI03,KB038,SCI03,0.8794894218444824,True
+SCI03_gu,Science,Gujarati,સૂર્યથી ત્રીજો ગ્રહ કયો છે?,SCI03,KB039,SCI03,0.8624471426010132,True
+SCI04_en,Science,English,What is the process by which plants convert sunlight into energy called?,SCI04,KB040,SCI04,0.8575979471206665,True
+SCI04_hi,Science,Hindi,पौधों द्वारा सूर्य के प्रकाश को ऊर्जा में बदलने की प्रक्रिया को क्या कहते हैं?,SCI04,KB041,SCI04,0.8693186044692993,True
+SCI04_gu,Science,Gujarati,છોડ સૂર્યપ્રકાશને ઊર્જામાં રૂપાંતરિત કરવાની પ્રક્રિયાને શું કહેવાય છે?,SCI04,KB042,SCI04,0.82729172706604,True
+SCI05_en,Science,English,What is the chemical symbol for gold?,SCI05,KB043,SCI05,0.9132726788520813,True
+SCI05_hi,Science,Hindi,सोने का रासायनिक प्रतीक क्या है?,SCI05,KB044,SCI05,0.9118883609771729,True
+SCI05_gu,Science,Gujarati,સોનાનું રાસાયણિક પ્રતીક શું છે?,SCI05,KB045,SCI05,0.8558138608932495,True

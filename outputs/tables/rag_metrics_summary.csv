@@ -1,0 +1,3 @@
+﻿response_type,avg_groundedness_score,supported_claim_rate,partially_supported_claim_rate,unsupported_claim_rate,retrieval_success_rate,total_claims_analyzed
+non_rag,0.9944444444444445,0.9782608695652174,0.021739130434782608,0.0,1.0,46
+rag,1.0,1.0,0.0,0.0,1.0,45

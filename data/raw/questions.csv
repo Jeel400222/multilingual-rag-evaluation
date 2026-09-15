@@ -1,0 +1,46 @@
+﻿question_id,category,language,question,reference_answer
+GEO01_en,Geography,English,What is the capital of India?,New Delhi
+GEO01_hi,Geography,Hindi,भारत की राजधानी क्या है?,नई दिल्ली
+GEO01_gu,Geography,Gujarati,ભારતની રાજધાની શું છે?,નવી દિલ્હી
+GEO02_en,Geography,English,Which river is generally considered the longest in the world?,The Nile River
+GEO02_hi,Geography,Hindi,विश्व की सबसे लंबी नदी कौन सी मानी जाती है?,नील नदी
+GEO02_gu,Geography,Gujarati,વિશ્વની સૌથી લાંબી નદી કઈ ગણાય છે?,નાઇલ નદી
+GEO03_en,Geography,English,Which mountain is the tallest above sea level?,Mount Everest
+GEO03_hi,Geography,Hindi,समुद्र तल से सबसे ऊँचा पर्वत कौन सा है?,माउंट एवरेस्ट
+GEO03_gu,Geography,Gujarati,સમુદ્ર સપાટીથી સૌથી ઊંચો પર્વત કયો છે?,માઉન્ટ એવરેસ્ટ
+GEO04_en,Geography,English,Which is the largest ocean on Earth?,The Pacific Ocean
+GEO04_hi,Geography,Hindi,पृथ्वी का सबसे बड़ा महासागर कौन सा है?,प्रशांत महासागर
+GEO04_gu,Geography,Gujarati,પૃથ્વીનો સૌથી મોટો મહાસાગર કયો છે?,પ્રશાંત મહાસાગર
+GEO05_en,Geography,English,Which continent is the second largest by both area and population?,Africa
+GEO05_hi,Geography,Hindi,क्षेत्रफल और जनसंख्या दोनों के हिसाब से दूसरा सबसे बड़ा महाद्वीप कौन सा है?,अफ्रीका
+GEO05_gu,Geography,Gujarati,ક્ષેત્રફળ અને વસ્તી બંનેની દ્રષ્ટિએ બીજો સૌથી મોટો ખંડ કયો છે?,આફ્રિકા
+HIS01_en,History,English,On what date did India gain independence from British rule?,15 August 1947
+HIS01_hi,History,Hindi,भारत को ब्रिटिश शासन से किस तारीख को स्वतंत्रता मिली?,15 अगस्त 1947
+HIS01_gu,History,Gujarati,ભારતને બ્રિટિશ શાસનથી કઈ તારીખે આઝાદી મળી?,15 ઓગસ્ટ 1947
+HIS02_en,History,English,Who built the Taj Mahal?,Mughal emperor Shah Jahan
+HIS02_hi,History,Hindi,ताजमहल किसने बनवाया था?,मुगल सम्राट शाहजहाँ
+HIS02_gu,History,Gujarati,તાજમહલ કોણે બંધાવ્યો હતો?,મુઘલ સમ્રાટ શાહજહાં
+HIS03_en,History,English,In what year did World War II end?,1945
+HIS03_hi,History,Hindi,द्वितीय विश्व युद्ध किस वर्ष समाप्त हुआ?,1945
+HIS03_gu,History,Gujarati,બીજું વિશ્વ યુદ્ધ કયા વર્ષે સમાપ્ત થયું?,1945
+HIS04_en,History,English,Who led India's non-violent independence movement?,Mahatma Gandhi
+HIS04_hi,History,Hindi,भारत के अहिंसक स्वतंत्रता आंदोलन का नेतृत्व किसने किया?,महात्मा गांधी
+HIS04_gu,History,Gujarati,ભારતના અહિંસક સ્વતંત્રતા આંદોલનનું નેતૃત્વ કોણે કર્યું?,મહાત્મા ગાંધી
+HIS05_en,History,English,Which is one of the world's oldest urban civilizations?,The Indus Valley Civilization
+HIS05_hi,History,Hindi,विश्व की सबसे पुरानी शहरी सभ्यताओं में से एक कौन सी है?,सिंधु घाटी सभ्यता
+HIS05_gu,History,Gujarati,વિશ્વની સૌથી જૂની શહેરી સંસ્કૃતિઓમાંની એક કઈ છે?,સિંધુ ખીણની સંસ્કૃતિ
+SCI01_en,Science,English,What are the two elements that make up water?,Hydrogen and oxygen
+SCI01_hi,Science,Hindi,पानी किन दो तत्वों से मिलकर बना है?,हाइड्रोजन और ऑक्सीजन
+SCI01_gu,Science,Gujarati,પાણી કયા બે તત્વોથી બનેલું છે?,હાઇડ્રોજન અને ઓક્સિજન
+SCI02_en,Science,English,How many chambers does the human heart have?,Four
+SCI02_hi,Science,Hindi,मानव हृदय में कितने कक्ष होते हैं?,चार
+SCI02_gu,Science,Gujarati,માનવ હૃદયમાં કેટલા ખંડ (ચેમ્બર) હોય છે?,ચાર
+SCI03_en,Science,English,Which planet is third from the Sun?,Earth
+SCI03_hi,Science,Hindi,सूर्य से तीसरा ग्रह कौन सा है?,पृथ्वी
+SCI03_gu,Science,Gujarati,સૂર્યથી ત્રીજો ગ્રહ કયો છે?,પૃથ્વી
+SCI04_en,Science,English,What is the process by which plants convert sunlight into energy called?,Photosynthesis
+SCI04_hi,Science,Hindi,पौधों द्वारा सूर्य के प्रकाश को ऊर्जा में बदलने की प्रक्रिया को क्या कहते हैं?,प्रकाश संश्लेषण
+SCI04_gu,Science,Gujarati,છોડ સૂર્યપ્રકાશને ઊર્જામાં રૂપાંતરિત કરવાની પ્રક્રિયાને શું કહેવાય છે?,પ્રકાશસંશ્લેષણ
+SCI05_en,Science,English,What is the chemical symbol for gold?,Au
+SCI05_hi,Science,Hindi,सोने का रासायनिक प्रतीक क्या है?,Au (स्वर्ण)
+SCI05_gu,Science,Gujarati,સોનાનું રાસાયણિક પ્રતીક શું છે?,Au

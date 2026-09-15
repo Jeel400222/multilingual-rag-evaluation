@@ -1,0 +1,7 @@
+﻿response_type,category,strict_accuracy,relaxed_accuracy,hallucination_rate
+non_rag,Geography,0.8666666666666667,1.0,0.0
+non_rag,History,0.6,0.8,0.0
+non_rag,Science,0.9333333333333333,0.9333333333333333,0.0
+rag,Geography,1.0,1.0,0.0
+rag,History,1.0,1.0,0.0
+rag,Science,1.0,1.0,0.0

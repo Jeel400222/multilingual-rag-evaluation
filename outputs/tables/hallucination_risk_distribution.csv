@@ -1,0 +1,9 @@
+﻿response_type,risk_level,count,percentage
+non_rag,Low,45,100.0
+non_rag,Medium,0,0.0
+non_rag,High,0,0.0
+non_rag,Unable to Determine,0,0.0
+rag,Low,45,100.0
+rag,Medium,0,0.0
+rag,High,0,0.0
+rag,Unable to Determine,0,0.0

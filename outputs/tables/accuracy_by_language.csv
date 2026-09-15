@@ -1,0 +1,7 @@
+﻿response_type,language,strict_accuracy,relaxed_accuracy,hallucination_rate
+non_rag,English,0.9333333333333333,0.9333333333333333,0.0
+non_rag,Gujarati,0.6666666666666666,0.8666666666666667,0.0
+non_rag,Hindi,0.8,0.9333333333333333,0.0
+rag,English,1.0,1.0,0.0
+rag,Gujarati,1.0,1.0,0.0
+rag,Hindi,1.0,1.0,0.0

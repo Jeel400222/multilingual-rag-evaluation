@@ -1,0 +1,46 @@
+﻿question_id,language,category,claim_text,similarity_score,status_at_current_thresholds
+GEO01_en,English,Geography,New Delhi is the capital of India.,0.906563401222229,Supported
+GEO01_hi,Hindi,Geography,नई दिल्ली भारत की राजधानी है।,0.9228740334510803,Supported
+GEO01_gu,Gujarati,Geography,ભારતની રાજધાની નવી દિલ્હી છે.,0.8654682636260986,Supported
+GEO02_en,English,Geography,The Nile River is generally considered the longest river in the world.,0.9299529790878296,Supported
+GEO02_hi,Hindi,Geography,नील नदी को आमतौर पर विश्व की सबसे लंबी नदी माना जाता है।,0.9266750812530518,Supported
+GEO02_gu,Gujarati,Geography,વિશ્વની સૌથી લાંબી નદી નાઇલ નદી ગણાય છે.,0.8923592567443848,Supported
+GEO03_en,English,Geography,Mount Everest.,0.8810960054397583,Supported
+GEO03_hi,Hindi,Geography,माउंट एवरेस्ट समुद्र तल से सबसे ऊँचा पर्वत है।,0.8975470662117004,Supported
+GEO03_gu,Gujarati,Geography,માઉન્ટ એવરેસ્ટ સમુદ્ર સપાટીથી સૌથી ઊંચો પર્વત છે.,0.8677363991737366,Supported
+GEO04_en,English,Geography,The Pacific Ocean.,0.8854483962059021,Supported
+GEO04_hi,Hindi,Geography,पृथ्वी का सबसे बड़ा महासागर प्रशांत महासागर है।,0.9031416773796082,Supported
+GEO04_gu,Gujarati,Geography,પૃથ્વીનો સૌથી મોટો મહાસાગર પ્રશાંત મહાસાગર છે.,0.8740055561065674,Supported
+GEO05_en,English,Geography,Africa.,0.8497499227523804,Supported
+GEO05_hi,Hindi,Geography,अफ्रीका।,0.8321177363395691,Supported
+GEO05_gu,Gujarati,Geography,આફ્રિકા.,0.8034700751304626,Supported
+HIS01_en,English,History,India gained independence from British rule on 15 August 1947.,0.9186011552810669,Supported
+HIS01_hi,Hindi,History,भारत को 15 अगस्त 1947 को ब्रिटिश औपनिवेशिक शासन से स्वतंत्रता मिली।,0.9197775721549988,Supported
+HIS01_gu,Gujarati,History,ભારતને 15 ઓગસ્ટ 1947ના રોજ બ્રિટિશ શાસનથી આઝાદી મળી.,0.8919075727462769,Supported
+HIS02_en,English,History,The Taj Mahal was built by Mughal emperor Shah Jahan.,0.8799217343330383,Supported
+HIS02_hi,Hindi,History,मुगल सम्राट शाहजहाँ ने ताजमहल बनवाया था।,0.889999270439148,Supported
+HIS02_gu,Gujarati,History,મુઘલ સમ્રાટ શાહજહાંએ તાજમહલ બંધાવ્યો હતો.,0.829046368598938,Supported
+HIS03_en,English,History,World War II ended in 1945.,0.8893759250640869,Supported
+HIS03_hi,Hindi,History,द्वितीय विश्व युद्ध 1945 में समाप्त हुआ।,0.9063025712966919,Supported
+HIS03_gu,Gujarati,History,બીજું વિશ્વ યુદ્ધ 1945માં સમાપ્ત થયું.,0.8725848197937012,Supported
+HIS04_en,English,History,Mahatma Gandhi led India's non‑violent independence movement.,0.9001831412315369,Supported
+HIS04_hi,Hindi,History,महात्मा गांधी ने भारत के अहिंसक स्वतंत्रता आंदोलन का नेतृत्व किया।,0.9286300539970398,Supported
+HIS04_gu,Gujarati,History,મહાત્મા ગાંધીએ ભારતના અહિંસક સ્વતંત્રતા આંદોલનનું નેતૃત્વ કર્યું.,0.8825654983520508,Supported
+HIS05_en,English,History,The Indus Valley Civilization.,0.8924245834350586,Supported
+HIS05_hi,Hindi,History,विश्व की सबसे पुरानी शहरी सभ्यताओं में से एक सिंधु घाटी सभ्यता है।,0.9120513796806335,Supported
+HIS05_gu,Gujarati,History,વિશ્વની સૌથી જૂની શહેરી સંસ્કૃતિઓમાંની એક સિંધુ ખીણની સંસ્કૃતિ છે.,0.8685888051986694,Supported
+SCI01_en,English,Science,Water is composed of the elements hydrogen and oxygen.,0.8975803852081299,Supported
+SCI01_hi,Hindi,Science,पानी हाइड्रोजन और ऑक्सीजन से बना है।,0.891063928604126,Supported
+SCI01_gu,Gujarati,Science,પાણી હાઇડ્રોજન અને ઓક્સિજન તત્વોથી બનેલું છે.,0.8731690049171448,Supported
+SCI02_en,English,Science,The human heart has four chambers.,0.9179351329803467,Supported
+SCI02_hi,Hindi,Science,मानव हृदय में चार कक्ष होते हैं।,0.8771522045135498,Supported
+SCI02_gu,Gujarati,Science,માનવ હૃદયમાં ચાર ખંડ (ચેમ્બર) હોય છે.,0.8710724711418152,Supported
+SCI03_en,English,Science,Earth.,0.8565666675567627,Supported
+SCI03_hi,Hindi,Science,सूर्य से तीसरा ग्रह पृथ्वी है।,0.8901993036270142,Supported
+SCI03_gu,Gujarati,Science,પૃથ્વી સૂર્યથી ત્રીજો ગ્રહ છે.,0.8756298422813416,Supported
+SCI04_en,English,Science,The process by which plants convert sunlight into energy is called photosynthesis.,0.8974810242652893,Supported
+SCI04_hi,Hindi,Science,पौधों द्वारा सूर्य के प्रकाश को ऊर्जा में बदलने की प्रक्रिया को **प्रकाश संश्लेषण** कहते हैं।,0.8970363140106201,Supported
+SCI04_gu,Gujarati,Science,છોડ સૂર્યપ્રકાશને ઊર્જામાં રૂપાંતરિત કરવાની પ્રક્રિયાને પ્રકાશસંશ્લેષણ કહેવાય છે.,0.8585699796676636,Supported
+SCI05_en,English,Science,The chemical symbol for gold is Au.,0.9194295406341553,Supported
+SCI05_hi,Hindi,Science,सोने का रासायनिक प्रतीक Au है।,0.89947509765625,Supported
+SCI05_gu,Gujarati,Science,સોનાનું રાસાયણિક પ્રતીક Au છે.,0.8694459199905396,Supported

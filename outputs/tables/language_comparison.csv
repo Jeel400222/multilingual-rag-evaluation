@@ -1,0 +1,7 @@
+﻿Language,System,Total Questions,Successful Responses,Failed Responses,Success Rate,Average Latency Seconds,Average Groundedness Score,Low Risk Count,Medium Risk Count,High Risk Count,Correct Rate,Correct Count,Partially Correct Count,Incorrect Count
+English,Non-RAG,15,15,0,1.0,1.7660818799980915,0.9833333333333333,15,0,0,1.0,15,0,0
+English,RAG,15,15,0,1.0,1.9645070466659187,1.0,15,0,0,1.0,15,0,0
+Hindi,Non-RAG,15,15,0,1.0,1.9661119666668432,1.0,15,0,0,1.0,15,0,0
+Hindi,RAG,15,15,0,1.0,2.0390660466684496,1.0,15,0,0,1.0,15,0,0
+Gujarati,Non-RAG,15,15,0,1.0,2.00932762666295,1.0,15,0,0,1.0,15,0,0
+Gujarati,RAG,15,15,0,1.0,1.9460216733374789,1.0,15,0,0,1.0,15,0,0

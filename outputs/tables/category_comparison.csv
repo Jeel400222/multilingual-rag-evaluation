@@ -1,0 +1,7 @@
+﻿Category,System,Total Questions,Successful Responses,Failed Responses,Success Rate,Average Latency Seconds,Average Groundedness Score,Low Risk Count,Medium Risk Count,High Risk Count,Correct Rate,Correct Count,Partially Correct Count,Incorrect Count
+Geography,Non-RAG,15,15,0,1.0,0.6408559266671848,1.0,15,0,0,1.0,15,0,0
+Geography,RAG,15,15,0,1.0,0.6268822533350128,1.0,15,0,0,1.0,15,0,0
+History,Non-RAG,15,15,0,1.0,2.4846712066656136,0.9833333333333333,15,0,0,1.0,15,0,0
+History,RAG,15,15,0,1.0,2.6785305266656603,1.0,15,0,0,1.0,15,0,0
+Science,Non-RAG,15,15,0,1.0,2.615994339995086,1.0,15,0,0,1.0,15,0,0
+Science,RAG,15,15,0,1.0,2.6441819866711738,1.0,15,0,0,1.0,15,0,0
